@@ -1,11 +1,10 @@
 streamlit
 pandas
-svgwrite
-openpyxl
-xlrd
 folium
+openpyxl
 numpy
 matplotlib
 pyproj
 shapely
 geopandas
+streamlit_folium
